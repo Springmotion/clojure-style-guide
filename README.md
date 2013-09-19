@@ -134,7 +134,8 @@ You can generate a PDF or an HTML copy of this guide using
             (baz x)))
     ```
 
-* Indent each line of multi-line docstrings.
+* Indent each line of multi-line docstrings. 
+    Emacs binding ```C-c M-q``` - clojure-fill-docstring
 
     ```Clojure
     ;; good
